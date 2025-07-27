@@ -2,7 +2,6 @@
   "name": "jagrit-portfolio-enhanced",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://jagrit05.github.io/jagrit-portfolio-final",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
